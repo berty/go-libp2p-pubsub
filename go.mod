@@ -4,7 +4,6 @@ go 1.19
 
 require (
 	github.com/benbjohnson/clock v1.3.0
-	github.com/emirpasic/gods v1.18.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/ipfs/go-log/v2 v2.5.1
 	github.com/libp2p/go-buffer-pool v0.1.0
