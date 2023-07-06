@@ -1,4 +1,4 @@
-module github.com/gfanton/go-libp2p-pubsub
+module github.com/berty/go-libp2p-pubsub
 
 go 1.19
 
